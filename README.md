@@ -89,6 +89,7 @@ yarn add better-all
 - **Full type inference**: Both results and dependencies are fully typed
 - **Automatic maximal parallelization**: Independent tasks run in parallel
 - **Object-based API**: Minimal cognitive load, easy to read
+- **No hanging promises**: Avoids the uncaught dangling promises problem often seen in manual optimization
 - **Lightweight**: Minimal dependencies and small bundle size
 
 ## API
